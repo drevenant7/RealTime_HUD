@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "realtimehud",
+  "version": "${version}",
+  "name": "RealTime HUD",
+  "description": "A mod that displays real-world time on your HUD",
+  "authors": [
+    "drevenant7"
+  ],
+  "contact": {
+    "homepage": "https://drevenant7.site/",
+    "sources": "https://github"
+  },
+  "license": "MIT",
+  "icon": "assets/realtimehud/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.drevenant7.realtime_hud.RealTimeHud"
+    ],
+    "client": [
+      "com.drevenant7.realtime_hud.RealTimeHudClient"
+    ],
+    "modmenu": [
+      "com.drevenant7.realtime_hud.config.ModMenuIntegration"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "1.21.x",
+    "java": ">=21",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "modmenu": "*"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "key.realtimehud.toggle": "Toggle RealTime HUD",
+  "key.realtimehud.formatToggle": "Toggle Time Format (24h/12h)",
+  "category.realtimehud": "RealTime HUD"
+}
