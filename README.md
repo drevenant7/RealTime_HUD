@@ -112,4 +112,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Enjoy the mod? Give it a ⭐ on GitHub and download on [Modrinth](https://modrinth.com/mod/YOUR_MOD_SLUG)!**
+**Enjoy the mod? Give it a ⭐ on GitHub and download on [Modrinth](https://modrinth.com/mod/realtimehud)!**
